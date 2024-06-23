@@ -48,6 +48,8 @@ This project uses CrewAI to create agents, leveraging Gemini API and Serper API.
 
    ![Screenshot (242)](https://github.com/Praveen9131/crewai_agent-with-gemini/assets/121826658/239f2510-fc43-467d-b14b-3acad0e0072e)
 
+   
+
 
 ## License
 
